@@ -4,7 +4,7 @@
 - 🎓 4th-year student passionate about Python, AI, and Web Development.
 - 🛠️ Building real-time projects like payment verification and voice assistants.
 - 📊 Data Science | 💻 Full Stack Learning | 🎨 Design Lead in Club
-- 🚀 Participating in AI Hackathons and learning Java DSA!
+- 🚀 Participating in AI Hackathons and learning Python DSA!
 
 ### 💼 What I'm Doing:
 - Working on: Flask apps, AI-driven projects, and GitHub workflows.
